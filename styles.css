@@ -33,6 +33,7 @@ body {
 
 .player-paddle {
     left: 0;
+    top: 0;
 }
 
 .computer-paddle {
